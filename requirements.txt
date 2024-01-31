@@ -3,4 +3,4 @@ plotly
 streamlit
 geopandas
 folium
-
+streamlit_folium
