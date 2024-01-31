@@ -3,3 +3,7 @@ plotly
 streamlit
 geopandas
 folium
+Point
+StreamlitPatcher
+tqdm
+st_folium
