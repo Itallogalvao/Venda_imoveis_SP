@@ -63,9 +63,8 @@ import geopandas as gpd
 from shapely.geometry import Point
 import plotly.express as px
 import streamlit as st
-from streamlit_jupyter import StreamlitPatcher, tqdm
 from streamlit_folium import st_folium
-StreamlitPatcher().jupyter()
+
 # -
 
 # Carregar DataFrame de imóveis a partir do Excel
