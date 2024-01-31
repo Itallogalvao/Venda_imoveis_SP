@@ -75,6 +75,8 @@ imoveis_df.head(10)
 # Exibir informações sobre o DataFrame
 imoveis_df.info()
 
+st.title("Exibir estatísticas descritivas transpostas do DataFrame")
+
 # Exibir estatísticas descritivas transpostas do DataFrame
 imoveis_df.describe().T
 
