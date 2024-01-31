@@ -3,5 +3,4 @@ plotly
 streamlit
 geopandas
 folium
-StreamlitPatcher
 tqdm
